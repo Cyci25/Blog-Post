@@ -1,0 +1,8 @@
+Hello {{user.username}}
+Welcome to THE PITCH by Cynthia Muriithi
+
+I see you have signed up.
+Now you can get to enjoy the benefits of our blog.
+Feel free to explore as much as you can.
+
+Thankyou!
